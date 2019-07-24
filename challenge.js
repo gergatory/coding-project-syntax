@@ -59,7 +59,7 @@ else{
     console.log("password not long enough")
 }*/
 
-let num = 22
+/*let num = 22
 if (num % 3 == 0 || num % 5 == 0){
     console.log("This number is divisible by 3 or 5")
 }
@@ -69,12 +69,4 @@ else if( num % 2 == 0){
 else {
     console.log("not divisble")
 }
-
-
-
-
-
-
-
-
-
+*/
